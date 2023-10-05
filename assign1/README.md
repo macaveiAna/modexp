@@ -1,4 +1,4 @@
-### Ana Macavei, CS-410P, Fall 2023
+### CS-410P, Fall 2023
 
 # Homework 1: Modular Exponentiation 
 
